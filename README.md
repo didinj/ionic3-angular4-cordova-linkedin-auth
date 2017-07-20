@@ -1,3 +1,5 @@
+# ionic3-angular4-cordova-linkedin-auth
+
 This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
 
 ## How to use this template
@@ -23,5 +25,3 @@ $ ionic cordova run ios
 ```
 
 Substitute ios for android if not on a Mac.
-
-# ionic3-angular4-cordova-linkedin-auth
