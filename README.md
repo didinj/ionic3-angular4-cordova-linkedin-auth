@@ -1,13 +1,6 @@
 # ionic3-angular4-cordova-linkedin-auth
 
-This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
-
-## How to use this template
-
-*This template does not work on its own*. The shared files for each starter are found in the [ionic2-app-base repo](https://github.com/ionic-team/ionic2-app-base).
-
-To use this template, either create a new ionic project using the ionic node.js utility, or copy the files from this repository into the [Starter App Base](https://github.com/ionic-team/ionic2-app-base).
-
+This source code is part of (Ionic 3, Angular 4 and Cordova LinkedIn Authentication Tutorial)[https://www.djamware.com/post/5971421e80aca7414e78a658/ionic-3-angular-4-and-cordova-linkedin-authentication-tutorial]
 ### With the Ionic CLI:
 
 Take the name after `ionic2-starter-`, and that is the name of the template to be used when using the `ionic start` command below:
@@ -24,4 +17,3 @@ $ ionic cordova platform add ios
 $ ionic cordova run ios
 ```
 
-Substitute ios for android if not on a Mac.
